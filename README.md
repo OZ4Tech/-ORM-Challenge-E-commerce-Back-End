@@ -1,4 +1,4 @@
-# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+# Computer Science for JavaScript Challenge: Regex Tutorial
 
   ## Table Of Contents
 -[Summary](#summary)
@@ -9,14 +9,14 @@
 -[Questions](#questions)
 
 ## Summary
-Building the back end for an e-commerce site. Taking a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. 
+Created a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
 
 
 ## Installation
-n/a     
+n/a
 
 ## Functionality
-Back end for an e-commerce website that uses the latest technologies so the company can compete with other e-commerce companies.
+Creates a tutorial explaining a specific regex so that a web development student can understand the search pattern the regex defines.
 
 ## Credits
 n/a
