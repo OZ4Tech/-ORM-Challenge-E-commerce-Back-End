@@ -1,4 +1,5 @@
-# Computer Science for JavaScript Challenge: Regex Tutorial
+# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+
 
   ## Table Of Contents
 -[Summary](#summary)
@@ -9,14 +10,15 @@
 -[Questions](#questions)
 
 ## Summary
-Created a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
+Back end for an e-commerce site.
 
 
 ## Installation
 n/a
 
 ## Functionality
-Creates a tutorial explaining a specific regex so that a web development student can understand the search pattern the regex defines.
+Back end for a user's e-commerce website that uses the latest technologies
+so that my company can compete with other e-commerce companies.
 
 ## Credits
 n/a
